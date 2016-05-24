@@ -42,7 +42,7 @@ https://trello.com/b/ZFWVDd2G/domain
 ### Installation ###
 
 Deployed App:
-https://arcane-sea-78462.herokuapp.com
+thelivingquarters.heroku.com
 
 <br>
 
