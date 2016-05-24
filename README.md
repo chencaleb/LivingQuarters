@@ -42,7 +42,7 @@ https://trello.com/b/ZFWVDd2G/domain
 ### Installation ###
 
 Deployed App:
-thelivingquarters.heroku.com
+https://thelivingquarters.heroku.com
 
 <br>
 
